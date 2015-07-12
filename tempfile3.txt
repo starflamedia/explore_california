@@ -1,7 +1,0 @@
-temp file tracking changes
-
-1) Do you have version control, separate production and development environments
-2) How many people are in the web support team?
-3) How many employees in the Piscataway office
-4) a lot of pictures, old html, not 5, and tables - 15 yrs old html
-5) Would I use an Apple computer?
